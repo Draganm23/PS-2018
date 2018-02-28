@@ -1,0 +1,10 @@
+*.zip
+*.pdf
+*.docx
+/proiect1/.metadata
+/proiect1/.recommenders
+/proiect1/RemoteSystemsTempFiles
+/proiect1/Exercitiul1/.settings
+/proiect1/Exercitiul1/target
+/proiect1/Exercitiul1/.classpath
+/proiect1/Exercitiul1/.project
